@@ -10,6 +10,9 @@ y=x/10
 while y< 50
 print (x)
 if mylist/50
+  mylist.append(x)
+else:
+print(mylist.append(x)
 
 
 
