@@ -1,0 +1,9 @@
+#Cierra Crosby
+#CSS 225
+#Instructor Nathan Braun
+#3/15/2024
+#Problem One
+#Write an infinite loop that prints “Infinite”. An infinite loop never ends. The condition is always true
+
+while (true):
+    print("Infinite")
