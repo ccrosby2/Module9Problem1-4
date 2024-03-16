@@ -5,15 +5,20 @@
 #Problem Four
 #Create a while loop that initializes a counter at 0 and will run until the counter reaches 50. If the value of the counter is divisible by 10, append the value to the list called tens. Confirm the list results using a print statement.
 mylist=0
-x=o
-y=x/10
-while y< 50
-print (x)
-if mylist/50
-  mylist.append(x)
-else:
-print(mylist.append(x)
-
+x=50
+y=10
+mylistrange=['/n',1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50]
+while mylistrange==50:
+    for mylistrange in range(50):
+    # use a if the number is a multiple of 10, otherwise use b
+        if (mylistrange % 10) == 0:
+            x = x + 1
+            print (y,mylistrange,x)
+            print(y,"This is the number I want to divide by")
+            print(mylistrange, "This is the numbers in the list divisible by ten")
+            print(x, "This is the number adding one to the output if its divisible by 10")
+        else:
+            x = x - 1
 
 
 
