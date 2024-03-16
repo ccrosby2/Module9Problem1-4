@@ -1,1 +1,16 @@
+#Cierra Crosby
+#CSS 225
+#Instructor Nathan Braun
+#3/15/2024
+#Problem Three
+#Using a while loop, ask the user to enter a number. Append each entered number to a list and add them together. Continue asking for a number until the sum of the list of numbers is greater than 100.
 
+sum=0
+x=0
+mylist =[]
+while sum<100:
+    print("Enter a number from 0 to 100")
+    x=int(input("Enter a number"))
+    mylist.append(x)
+    for y in mylist:
+        sum=sum+y
