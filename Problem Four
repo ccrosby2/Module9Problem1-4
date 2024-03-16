@@ -19,6 +19,6 @@ while mylistrange==50:
             print(x, "This is the number adding one to the output if its divisible by 10")
         else:
             x = x - 1
-
+            print("There is not a number in this list divisible by 10")
 
 
