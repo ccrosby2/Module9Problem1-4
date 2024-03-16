@@ -1,1 +1,16 @@
+#Cierra Crosby
+#CSS 225
+#Instructor Nathan Braun
+#3/15/2024
+#Problem Four
+#Create a while loop that initializes a counter at 0 and will run until the counter reaches 50. If the value of the counter is divisible by 10, append the value to the list called tens. Confirm the list results using a print statement.
+mylist=0
+x=o
+y=x/10
+while y< 50
+print (x)
+if mylist/50
+
+
+
 
